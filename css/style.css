@@ -19,6 +19,10 @@ nav .brand-logo {
   font-family: 'Satisfy', cursive; 
 }
 
+.nav-wrapper {
+  padding: 0 50px;
+}
+
 p {
   line-height: 2rem;
 }
