@@ -80,6 +80,15 @@ p {
   font-size: inherit;
 }
 
+.registrazione-icon {
+  font-size: 7em;
+  margin-top: 60px;
+}
+
+.btn-registrazione {
+  width: 100%;
+}
+
 footer.page-footer {
   margin: 0;
 }
@@ -90,4 +99,8 @@ footer.page-footer {
 
 #download-button {
   font-weight: bold;
+}
+
+#imputEmail {
+  text-shadow: 1px 1px 5px #808080;
 }
