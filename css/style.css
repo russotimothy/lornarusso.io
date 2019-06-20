@@ -86,7 +86,7 @@ p {
 }
 
 .btn-registrazione {
-  width: 45%;
+  width: 200px;
 }
 
 footer.page-footer {
@@ -99,4 +99,13 @@ footer.page-footer {
 
 #imputEmail {
   text-shadow: 1px 1px 5px #808080;
+}
+
+.contact-icon {
+  font-size: 4em;
+  margin-top: 60px;
+}
+
+.btn-contattaci {
+  width: 200px;
 }
