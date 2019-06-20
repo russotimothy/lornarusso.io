@@ -109,3 +109,11 @@ footer.page-footer {
 .btn-contattaci {
   width: 200px;
 }
+
+#connect {
+  text-align: right;
+}
+
+.brand-logo {
+  font-family: 'Satisfy', cursive; 
+}
