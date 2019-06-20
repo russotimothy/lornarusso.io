@@ -86,7 +86,7 @@ p {
 }
 
 .btn-registrazione {
-  width: 100%;
+  width: 45%;
 }
 
 footer.page-footer {
@@ -95,10 +95,6 @@ footer.page-footer {
 
 #testoHeader {
   font-size: 30px;
-}
-
-#download-button {
-  font-weight: bold;
 }
 
 #imputEmail {
