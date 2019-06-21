@@ -187,3 +187,7 @@ footer.page-footer {
 .icon-step {
   color: #f48fb1;
 }
+
+.example {
+  font-style: italic;
+}
