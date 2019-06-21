@@ -66,6 +66,10 @@ p {
   #index-banner .section {
     top: 0;
   }
+
+  .nav-wrapper {
+    padding: 0 10px;
+  }
 }
 
 .btn-informazioni {
