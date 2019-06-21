@@ -37,9 +37,11 @@ p {
   height: auto;
   color: rgba(255,255,255,.9);
 }
-  .parallax-container .section {
-    width: 100%;
-  }
+
+.section-intro {
+  height: 100%;
+  width: 100%;
+}
 
 .header {
   margin-top: 10%;
@@ -145,7 +147,7 @@ footer.page-footer {
 
 .separator {
   background-color: black;
-  width: 75%;
+  width: 80%;
   height: 2px;
   margin: 0 auto;
   margin-top: 4%;
