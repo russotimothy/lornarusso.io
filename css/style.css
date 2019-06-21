@@ -28,7 +28,7 @@ p {
 }
 
 .sidenav-trigger {
-  color: #26a69a;
+  color: white;
 }
 
 .parallax-container {
@@ -90,7 +90,7 @@ p {
 }
 
 .btn-registrazione {
-  width:250px;
+  width:200px;
   background-color: #E26D5A;
 }
 
@@ -112,7 +112,7 @@ footer.page-footer {
 }
 
 .btn-preventivo {
-  width: 250px;
+  width: 200px;
   background-color:  #06D6A0;
 }
 
@@ -141,10 +141,10 @@ footer.page-footer {
 
 .separator {
   background-color: black;
-  width: 70%;
+  width: 75%;
   height: 2px;
   margin: 0 auto;
-  margin-top: 12%;
+  margin-top: 4%;
   margin-bottom: 0%;
 }
 
@@ -153,4 +153,9 @@ footer.page-footer {
   font-size: 1.6em;
   font-weight: 500;
   text-shadow: 1px 1px 5px #808080;
+}
+
+.col-funzionamento {
+  margin-top: 8%;
+  margin-bottom: 100px;
 }
