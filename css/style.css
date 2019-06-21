@@ -76,6 +76,11 @@ p {
   .header {
     margin-top: 22%;
   }
+
+  .col-funzionamento {
+    margin-top: 500px;
+    margin-bottom: 100px;
+  }
 }
 
 .btn-informazioni {
