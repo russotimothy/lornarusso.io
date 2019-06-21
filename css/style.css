@@ -68,17 +68,6 @@ p {
   }
 }
 
-@media screen and(min-widht: 600px) {
-  .separator {
-    background-color: black;
-    width: 70%;
-    height: 2px;
-    margin: 0 auto;
-    margin-top: 0%;
-    margin-bottom: 0%;
-  }
-}
-
 .btn-informazioni {
   background-color: #E26D5A;
 }
