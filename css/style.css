@@ -68,6 +68,21 @@ p {
   }
 }
 
+@media screen and(min-widht: 600px) {
+  .separator {
+    background-color: black;
+    width: 70%;
+    height: 2px;
+    margin: 0 auto;
+    margin-top: 0%;
+    margin-bottom: 0%;
+  }
+}
+
+.btn-informazioni {
+  background-color: #E26D5A;
+}
+
 .col-servizi {
   margin-top: 60px;
   margin-bottom: 100px;
@@ -81,12 +96,13 @@ p {
 }
 
 .registrazione-icon {
-  font-size: 7em;
+  font-size: 4em;
   margin-top: 60px;
 }
 
 .btn-registrazione {
   width:250px;
+  background-color: #E26D5A;
 }
 
 footer.page-footer {
@@ -106,8 +122,9 @@ footer.page-footer {
   margin-top: 60px;
 }
 
-.btn-contattaci {
+.btn-preventivo {
   width: 250px;
+  background-color:  #06D6A0;
 }
 
 #connect {
@@ -116,4 +133,35 @@ footer.page-footer {
 
 .brand-logo {
   font-family: 'Satisfy', cursive; 
+}
+
+.footer-icon {
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 5px;
+}
+
+.footer-text {
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.social-icon:hover {
+  color: black;
+}
+
+.separator {
+  background-color: black;
+  width: 70%;
+  height: 2px;
+  margin: 0 auto;
+  margin-top: 12%;
+  margin-bottom: 0%;
+}
+
+.header-subtitle-2 {
+  margin-top: 1%;
+  font-size: 1.6em;
+  font-weight: bold;
+  text-shadow: 1px 1px 5px #808080;
 }
