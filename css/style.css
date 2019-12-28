@@ -16,7 +16,8 @@ nav .brand-logo {
 }
 
 nav .brand-logo {
-  font-family: 'Montez', cursive; 
+  font-family: 'Amaranth', sans-serif;
+  font-size: 15px; 
 }
 
 .nav-wrapper {
@@ -110,9 +111,6 @@ p {
 
 }
 
-.btn-informazioni {
-  background-color: #DB5A42;
-}
 
 .col-servizi {
   margin-top: 60px;
@@ -150,7 +148,7 @@ footer.page-footer {
   margin-top: 40px;
 }
 
-.btn-maggioriinfo {
+.btn-contattaci {
   width: 220px;
   background-color:  #7DDF64;
 }
@@ -160,7 +158,7 @@ footer.page-footer {
 }
 
 .brand-logo {
-  font-family: 'Montez', cursive; 
+  font-family: 'Amaranth', sans-serif; 
 }
 
 .footer-icon {
