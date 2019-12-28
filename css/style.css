@@ -64,9 +64,13 @@ p {
   margin-bottom: 0%;
 }
 
-.col-funzionamento {
+.col-sezioni {
   margin-top: 6%;
   margin-bottom: 60px;
+}
+
+.spaziatura-immagini {
+  margin-top: 10%;
 }
 
 @media only screen and (max-width : 992px) {
@@ -96,9 +100,14 @@ p {
     margin-top: 14%;
   }
 
-  .col-funzionamento {
+  .col-sezioni {
     margin-top: 17%;
   }
+
+  .spaziatura-immagini {
+    margin-top: 25%;
+  }
+
 }
 
 .btn-informazioni {
