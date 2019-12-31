@@ -112,7 +112,7 @@ p {
 }
 
 .col-servizi {
-  margin-top: 20px;
+  margin-top: 45px;
   margin-bottom: 50px;
 }
 
@@ -122,13 +122,14 @@ p {
 }
 
 .presentation-color {
-  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
-  -webkit-background-clip: text;
+  background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 
 .col-social {
   margin-top: 0px;
-  margin-bottom: 70px;
+  margin-bottom: 90px;
 }
 
 .col-social-footer {
