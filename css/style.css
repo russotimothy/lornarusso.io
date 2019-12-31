@@ -67,7 +67,7 @@ p {
 
 .col-sezioni {
   margin-top: 6%;
-  margin-bottom: 60px;
+  margin-bottom: 50px;
 }
 
 .spaziatura-immagini {
@@ -129,6 +129,11 @@ p {
 .col-social {
   margin-top: 0px;
   margin-bottom: 70px;
+}
+
+.col-social-footer {
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 
 .icon-block {
@@ -213,7 +218,7 @@ footer.page-footer {
 /* Style all font awesome icons */
 .fa {
   padding: 20px;
-  font-size: 50px;
+  font-size: 30px;
   width: 50px;
   text-align: center;
   text-decoration: none;
@@ -242,5 +247,11 @@ footer.page-footer {
 /* Whatsapp */
 .fa-whatsapp {
   background: #25d366;
+  color: black;
+}
+
+/* Mail */
+.fa-envelope {
+  background: #ff0000;
   color: black;
 }
